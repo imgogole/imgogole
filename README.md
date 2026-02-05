@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imgogole
+- 👋 Hi, I’m Dalil NAAMNA, student at Polytech Marseille
 - 👀 I’m interested in not trying to die when I code in JavaScript
 - 🌱 I’m currently learning how not to blow my brains out on the Twitter API
 - 💞️ I’m looking to collaborate on HAHAHAHAHHA LOL
